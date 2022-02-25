@@ -8,3 +8,13 @@ D:\Users\Leandro\Projetos\pluralsight\getting-started\02\demos\after\02StartingT
 D:\Users\Leandro\Projetos\pluralsight\getting-started\02\demos\after\02StartingTest\GameEngine\obj\Debug\netcoreapp3.1\GameEngine.csproj.CoreCompileInputs.cache
 D:\Users\Leandro\Projetos\pluralsight\getting-started\02\demos\after\02StartingTest\GameEngine\obj\Debug\netcoreapp3.1\GameEngine.dll
 D:\Users\Leandro\Projetos\pluralsight\getting-started\02\demos\after\02StartingTest\GameEngine\obj\Debug\netcoreapp3.1\GameEngine.pdb
+D:\Users\Leandro\Projetos\pluralsight\xUnitGettingStarted\GameEngine\bin\Debug\netcoreapp3.1\GameEngine.deps.json
+D:\Users\Leandro\Projetos\pluralsight\xUnitGettingStarted\GameEngine\bin\Debug\netcoreapp3.1\GameEngine.dll
+D:\Users\Leandro\Projetos\pluralsight\xUnitGettingStarted\GameEngine\bin\Debug\netcoreapp3.1\GameEngine.pdb
+D:\Users\Leandro\Projetos\pluralsight\xUnitGettingStarted\GameEngine\obj\Debug\netcoreapp3.1\GameEngine.csproj.AssemblyReference.cache
+D:\Users\Leandro\Projetos\pluralsight\xUnitGettingStarted\GameEngine\obj\Debug\netcoreapp3.1\GameEngine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Leandro\Projetos\pluralsight\xUnitGettingStarted\GameEngine\obj\Debug\netcoreapp3.1\GameEngine.AssemblyInfoInputs.cache
+D:\Users\Leandro\Projetos\pluralsight\xUnitGettingStarted\GameEngine\obj\Debug\netcoreapp3.1\GameEngine.AssemblyInfo.cs
+D:\Users\Leandro\Projetos\pluralsight\xUnitGettingStarted\GameEngine\obj\Debug\netcoreapp3.1\GameEngine.csproj.CoreCompileInputs.cache
+D:\Users\Leandro\Projetos\pluralsight\xUnitGettingStarted\GameEngine\obj\Debug\netcoreapp3.1\GameEngine.dll
+D:\Users\Leandro\Projetos\pluralsight\xUnitGettingStarted\GameEngine\obj\Debug\netcoreapp3.1\GameEngine.pdb

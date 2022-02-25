@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PZs7WtuAe5t0rc2Y7/Vu/ZeA+aJw4IcEHG1CLT3EXYc5HKnlWnQQecX/2iTBoV38YTJ42xH+T9mHf8uzGu+FjA==",
+  "dgSpecHash": "TdjiejjRUBkjAFfzRMiwz//Ugmwq0JCLYr4ScoRjzPEwdxn9KjRqn3m/u05cEqIe89Y3dFMzoLoxQ0MTLiqORg==",
   "success": true,
-  "projectFilePath": "D:\\Users\\Leandro\\Projetos\\pluralsight\\getting-started\\02\\demos\\after\\02StartingTest\\GameEngine\\GameEngine.csproj",
+  "projectFilePath": "D:\\Users\\Leandro\\Projetos\\pluralsight\\xUnitGettingStarted\\GameEngine\\GameEngine.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

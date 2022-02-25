@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\Leandro\\Projetos\\pluralsight\\getting-started\\02\\demos\\after\\02StartingTest\\GameEngine.Tests\\GameEngine.Tests.csproj": {}
+    "D:\\Users\\Leandro\\Projetos\\pluralsight\\xUnitGettingStarted\\GameEngine.Tests\\GameEngine.Tests.csproj": {}
   },
   "projects": {
-    "D:\\Users\\Leandro\\Projetos\\pluralsight\\getting-started\\02\\demos\\after\\02StartingTest\\GameEngine.Tests\\GameEngine.Tests.csproj": {
+    "D:\\Users\\Leandro\\Projetos\\pluralsight\\xUnitGettingStarted\\GameEngine.Tests\\GameEngine.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\Leandro\\Projetos\\pluralsight\\getting-started\\02\\demos\\after\\02StartingTest\\GameEngine.Tests\\GameEngine.Tests.csproj",
+        "projectUniqueName": "D:\\Users\\Leandro\\Projetos\\pluralsight\\xUnitGettingStarted\\GameEngine.Tests\\GameEngine.Tests.csproj",
         "projectName": "GameEngine.Tests",
-        "projectPath": "D:\\Users\\Leandro\\Projetos\\pluralsight\\getting-started\\02\\demos\\after\\02StartingTest\\GameEngine.Tests\\GameEngine.Tests.csproj",
+        "projectPath": "D:\\Users\\Leandro\\Projetos\\pluralsight\\xUnitGettingStarted\\GameEngine.Tests\\GameEngine.Tests.csproj",
         "packagesPath": "C:\\Users\\Leandro\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\Leandro\\Projetos\\pluralsight\\getting-started\\02\\demos\\after\\02StartingTest\\GameEngine.Tests\\obj\\",
+        "outputPath": "D:\\Users\\Leandro\\Projetos\\pluralsight\\xUnitGettingStarted\\GameEngine.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Users\\Leandro\\Projetos\\pluralsight\\getting-started\\02\\demos\\after\\02StartingTest\\GameEngine\\GameEngine.csproj": {
-                "projectPath": "D:\\Users\\Leandro\\Projetos\\pluralsight\\getting-started\\02\\demos\\after\\02StartingTest\\GameEngine\\GameEngine.csproj"
+              "D:\\Users\\Leandro\\Projetos\\pluralsight\\xUnitGettingStarted\\GameEngine\\GameEngine.csproj": {
+                "projectPath": "D:\\Users\\Leandro\\Projetos\\pluralsight\\xUnitGettingStarted\\GameEngine\\GameEngine.csproj"
               }
             }
           }
@@ -114,14 +114,14 @@
         }
       }
     },
-    "D:\\Users\\Leandro\\Projetos\\pluralsight\\getting-started\\02\\demos\\after\\02StartingTest\\GameEngine\\GameEngine.csproj": {
+    "D:\\Users\\Leandro\\Projetos\\pluralsight\\xUnitGettingStarted\\GameEngine\\GameEngine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\Leandro\\Projetos\\pluralsight\\getting-started\\02\\demos\\after\\02StartingTest\\GameEngine\\GameEngine.csproj",
+        "projectUniqueName": "D:\\Users\\Leandro\\Projetos\\pluralsight\\xUnitGettingStarted\\GameEngine\\GameEngine.csproj",
         "projectName": "GameEngine",
-        "projectPath": "D:\\Users\\Leandro\\Projetos\\pluralsight\\getting-started\\02\\demos\\after\\02StartingTest\\GameEngine\\GameEngine.csproj",
+        "projectPath": "D:\\Users\\Leandro\\Projetos\\pluralsight\\xUnitGettingStarted\\GameEngine\\GameEngine.csproj",
         "packagesPath": "C:\\Users\\Leandro\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\Leandro\\Projetos\\pluralsight\\getting-started\\02\\demos\\after\\02StartingTest\\GameEngine\\obj\\",
+        "outputPath": "D:\\Users\\Leandro\\Projetos\\pluralsight\\xUnitGettingStarted\\GameEngine\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
