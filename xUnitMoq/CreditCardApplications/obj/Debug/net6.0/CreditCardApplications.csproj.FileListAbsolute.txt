@@ -1,0 +1,15 @@
+D:\Users\Leandro\Projetos\pluralsight\xUnitMoq\CreditCardApplications\obj\Debug\net6.0\CreditCardApplications.csproj.AssemblyReference.cache
+D:\Users\Leandro\Projetos\pluralsight\xUnitMoq\CreditCardApplications\obj\Debug\net6.0\CreditCardApplications.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Leandro\Projetos\pluralsight\xUnitMoq\CreditCardApplications\obj\Debug\net6.0\CreditCardApplications.AssemblyInfoInputs.cache
+D:\Users\Leandro\Projetos\pluralsight\xUnitMoq\CreditCardApplications\obj\Debug\net6.0\CreditCardApplications.AssemblyInfo.cs
+D:\Users\Leandro\Projetos\pluralsight\xUnitMoq\CreditCardApplications\obj\Debug\net6.0\CreditCardApplications.csproj.CoreCompileInputs.cache
+D:\Users\Leandro\Projetos\pluralsight\xUnitMoq\CreditCardApplications\bin\Debug\net6.0\CreditCardApplications.exe
+D:\Users\Leandro\Projetos\pluralsight\xUnitMoq\CreditCardApplications\bin\Debug\net6.0\CreditCardApplications.deps.json
+D:\Users\Leandro\Projetos\pluralsight\xUnitMoq\CreditCardApplications\bin\Debug\net6.0\CreditCardApplications.runtimeconfig.json
+D:\Users\Leandro\Projetos\pluralsight\xUnitMoq\CreditCardApplications\bin\Debug\net6.0\CreditCardApplications.dll
+D:\Users\Leandro\Projetos\pluralsight\xUnitMoq\CreditCardApplications\bin\Debug\net6.0\CreditCardApplications.pdb
+D:\Users\Leandro\Projetos\pluralsight\xUnitMoq\CreditCardApplications\obj\Debug\net6.0\CreditCardApplications.dll
+D:\Users\Leandro\Projetos\pluralsight\xUnitMoq\CreditCardApplications\obj\Debug\net6.0\refint\CreditCardApplications.dll
+D:\Users\Leandro\Projetos\pluralsight\xUnitMoq\CreditCardApplications\obj\Debug\net6.0\CreditCardApplications.pdb
+D:\Users\Leandro\Projetos\pluralsight\xUnitMoq\CreditCardApplications\obj\Debug\net6.0\CreditCardApplications.genruntimeconfig.cache
+D:\Users\Leandro\Projetos\pluralsight\xUnitMoq\CreditCardApplications\obj\Debug\net6.0\ref\CreditCardApplications.dll
