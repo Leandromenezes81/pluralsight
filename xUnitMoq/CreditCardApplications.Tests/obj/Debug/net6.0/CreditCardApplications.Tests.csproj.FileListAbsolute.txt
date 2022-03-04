@@ -103,3 +103,5 @@ D:\Users\Leandro\Projetos\pluralsight\xUnitMoq\CreditCardApplications.Tests\obj\
 D:\Users\Leandro\Projetos\pluralsight\xUnitMoq\CreditCardApplications.Tests\obj\Debug\net6.0\CreditCardApplications.Tests.pdb
 D:\Users\Leandro\Projetos\pluralsight\xUnitMoq\CreditCardApplications.Tests\obj\Debug\net6.0\CreditCardApplications.Tests.genruntimeconfig.cache
 D:\Users\Leandro\Projetos\pluralsight\xUnitMoq\CreditCardApplications.Tests\obj\Debug\net6.0\ref\CreditCardApplications.Tests.dll
+D:\Users\Leandro\Projetos\pluralsight\xUnitMoq\CreditCardApplications.Tests\bin\Debug\net6.0\Castle.Core.dll
+D:\Users\Leandro\Projetos\pluralsight\xUnitMoq\CreditCardApplications.Tests\bin\Debug\net6.0\Moq.dll
