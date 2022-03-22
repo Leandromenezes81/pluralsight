@@ -1,0 +1,10 @@
+
+*** C# Unit Testing with xUnit ***
+
+(1) Testing .NET Code with xUnit.net 2: Getting Started - https://app.pluralsight.com/learner/user/courses/v2/2acc5d5d-1030-4373-8bb0-4ddf1721ec8d/certificate
+(2) Mocking with Moq 4 and xUnit - https://app.pluralsight.com/learner/user/courses/v2/60ca2ada-7164-4fe9-bda9-f5f99aa678ad/certificate
+(3) Creating Maintainable Contexts for Automated Testing - https://app.pluralsight.com/learner/user/courses/v2/1e153bdc-18be-480b-ac56-981661bce5d2/certificate
+(4) Test Driven Development in C# - https://app.pluralsight.com/learner/user/courses/v2/513c0b1d-c93e-4f47-8f09-088e8bfe53c9/certificate
+(5) Writing Testable Code - https://app.pluralsight.com/learner/user/courses/v2/4a0bbbd5-f44a-4d6f-9ce5-d37344ef98ee/certificate
+(6) .NET Unit Testing with AutoFixture 4 - https://app.pluralsight.com/learner/user/courses/v2/32c24ee2-7db1-43c7-86cb-cd968240e355/certificate
+(7) Improving Unit Tests with Fluent Assertions 5 - https://app.pluralsight.com/learner/user/courses/v2/cab1be89-83ad-4afb-b0db-6f7a58efedf6/certificate

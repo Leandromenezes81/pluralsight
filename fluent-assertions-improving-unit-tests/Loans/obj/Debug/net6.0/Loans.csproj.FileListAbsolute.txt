@@ -1,0 +1,15 @@
+D:\Users\Leandro\Projetos\pluralsight\fluent-assertions-improving-unit-tests\Loans\bin\Debug\net6.0\Loans.exe
+D:\Users\Leandro\Projetos\pluralsight\fluent-assertions-improving-unit-tests\Loans\bin\Debug\net6.0\Loans.deps.json
+D:\Users\Leandro\Projetos\pluralsight\fluent-assertions-improving-unit-tests\Loans\bin\Debug\net6.0\Loans.runtimeconfig.json
+D:\Users\Leandro\Projetos\pluralsight\fluent-assertions-improving-unit-tests\Loans\bin\Debug\net6.0\Loans.dll
+D:\Users\Leandro\Projetos\pluralsight\fluent-assertions-improving-unit-tests\Loans\bin\Debug\net6.0\Loans.pdb
+D:\Users\Leandro\Projetos\pluralsight\fluent-assertions-improving-unit-tests\Loans\obj\Debug\net6.0\Loans.csproj.AssemblyReference.cache
+D:\Users\Leandro\Projetos\pluralsight\fluent-assertions-improving-unit-tests\Loans\obj\Debug\net6.0\Loans.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Leandro\Projetos\pluralsight\fluent-assertions-improving-unit-tests\Loans\obj\Debug\net6.0\Loans.AssemblyInfoInputs.cache
+D:\Users\Leandro\Projetos\pluralsight\fluent-assertions-improving-unit-tests\Loans\obj\Debug\net6.0\Loans.AssemblyInfo.cs
+D:\Users\Leandro\Projetos\pluralsight\fluent-assertions-improving-unit-tests\Loans\obj\Debug\net6.0\Loans.csproj.CoreCompileInputs.cache
+D:\Users\Leandro\Projetos\pluralsight\fluent-assertions-improving-unit-tests\Loans\obj\Debug\net6.0\Loans.dll
+D:\Users\Leandro\Projetos\pluralsight\fluent-assertions-improving-unit-tests\Loans\obj\Debug\net6.0\refint\Loans.dll
+D:\Users\Leandro\Projetos\pluralsight\fluent-assertions-improving-unit-tests\Loans\obj\Debug\net6.0\Loans.pdb
+D:\Users\Leandro\Projetos\pluralsight\fluent-assertions-improving-unit-tests\Loans\obj\Debug\net6.0\Loans.genruntimeconfig.cache
+D:\Users\Leandro\Projetos\pluralsight\fluent-assertions-improving-unit-tests\Loans\obj\Debug\net6.0\ref\Loans.dll

@@ -1,0 +1,12 @@
+D:\Users\Leandro\Projetos\pluralsight\tddCSharp\DeskBooker\DeskBook.Core\bin\Debug\net6.0\DeskBook.Core.deps.json
+D:\Users\Leandro\Projetos\pluralsight\tddCSharp\DeskBooker\DeskBook.Core\bin\Debug\net6.0\DeskBook.Core.dll
+D:\Users\Leandro\Projetos\pluralsight\tddCSharp\DeskBooker\DeskBook.Core\bin\Debug\net6.0\DeskBook.Core.pdb
+D:\Users\Leandro\Projetos\pluralsight\tddCSharp\DeskBooker\DeskBook.Core\obj\Debug\net6.0\DeskBook.Core.csproj.AssemblyReference.cache
+D:\Users\Leandro\Projetos\pluralsight\tddCSharp\DeskBooker\DeskBook.Core\obj\Debug\net6.0\DeskBook.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Leandro\Projetos\pluralsight\tddCSharp\DeskBooker\DeskBook.Core\obj\Debug\net6.0\DeskBook.Core.AssemblyInfoInputs.cache
+D:\Users\Leandro\Projetos\pluralsight\tddCSharp\DeskBooker\DeskBook.Core\obj\Debug\net6.0\DeskBook.Core.AssemblyInfo.cs
+D:\Users\Leandro\Projetos\pluralsight\tddCSharp\DeskBooker\DeskBook.Core\obj\Debug\net6.0\DeskBook.Core.csproj.CoreCompileInputs.cache
+D:\Users\Leandro\Projetos\pluralsight\tddCSharp\DeskBooker\DeskBook.Core\obj\Debug\net6.0\DeskBook.Core.dll
+D:\Users\Leandro\Projetos\pluralsight\tddCSharp\DeskBooker\DeskBook.Core\obj\Debug\net6.0\refint\DeskBook.Core.dll
+D:\Users\Leandro\Projetos\pluralsight\tddCSharp\DeskBooker\DeskBook.Core\obj\Debug\net6.0\DeskBook.Core.pdb
+D:\Users\Leandro\Projetos\pluralsight\tddCSharp\DeskBooker\DeskBook.Core\obj\Debug\net6.0\ref\DeskBook.Core.dll

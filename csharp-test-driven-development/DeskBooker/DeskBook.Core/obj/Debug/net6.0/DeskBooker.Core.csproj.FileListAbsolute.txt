@@ -1,0 +1,12 @@
+D:\Users\Leandro\Projetos\pluralsight\tddCSharp\DeskBooker\DeskBook.Core\obj\Debug\net6.0\DeskBooker.Core.csproj.AssemblyReference.cache
+D:\Users\Leandro\Projetos\pluralsight\tddCSharp\DeskBooker\DeskBook.Core\obj\Debug\net6.0\DeskBooker.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Leandro\Projetos\pluralsight\tddCSharp\DeskBooker\DeskBook.Core\obj\Debug\net6.0\DeskBooker.Core.AssemblyInfoInputs.cache
+D:\Users\Leandro\Projetos\pluralsight\tddCSharp\DeskBooker\DeskBook.Core\obj\Debug\net6.0\DeskBooker.Core.AssemblyInfo.cs
+D:\Users\Leandro\Projetos\pluralsight\tddCSharp\DeskBooker\DeskBook.Core\obj\Debug\net6.0\DeskBooker.Core.csproj.CoreCompileInputs.cache
+D:\Users\Leandro\Projetos\pluralsight\tddCSharp\DeskBooker\DeskBook.Core\bin\Debug\net6.0\DeskBooker.Core.deps.json
+D:\Users\Leandro\Projetos\pluralsight\tddCSharp\DeskBooker\DeskBook.Core\bin\Debug\net6.0\DeskBooker.Core.dll
+D:\Users\Leandro\Projetos\pluralsight\tddCSharp\DeskBooker\DeskBook.Core\bin\Debug\net6.0\DeskBooker.Core.pdb
+D:\Users\Leandro\Projetos\pluralsight\tddCSharp\DeskBooker\DeskBook.Core\obj\Debug\net6.0\DeskBooker.Core.dll
+D:\Users\Leandro\Projetos\pluralsight\tddCSharp\DeskBooker\DeskBook.Core\obj\Debug\net6.0\refint\DeskBooker.Core.dll
+D:\Users\Leandro\Projetos\pluralsight\tddCSharp\DeskBooker\DeskBook.Core\obj\Debug\net6.0\DeskBooker.Core.pdb
+D:\Users\Leandro\Projetos\pluralsight\tddCSharp\DeskBooker\DeskBook.Core\obj\Debug\net6.0\ref\DeskBooker.Core.dll
